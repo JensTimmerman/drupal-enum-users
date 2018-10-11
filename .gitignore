@@ -1,0 +1,7 @@
+*.py[oc]
+.eggs/
+
+._*
+
+*.egg-info
+*.bak
